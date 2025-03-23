@@ -16,7 +16,7 @@ This repository contains various **Python list operations** with practical examp
 1. Clone this repository:
    ```bash
    git clone https://github.com/aliikhan1323/Python-List.git
-   cd https://github.com/aliikhan1323/Python-List.git
+   cd Python-List
    ```
 2. Run the Python script: 
 Run chunk of code in jupiter notebook one by one
